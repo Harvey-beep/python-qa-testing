@@ -16,4 +16,4 @@
 ```
 
 ## Day 1-5: Python Essentials for QA
-### Day 1: Setup, Variables, and Printing (ONGOING)
+Day 1: Setup, Variables, and Printing (ongoing)
