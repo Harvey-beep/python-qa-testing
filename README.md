@@ -50,7 +50,7 @@ Day 23: `pytest` + `requests`. <br>
 Day 24: JSON Schema Validation. <br>
 Day 25: Hands-On Challenge 5. <br>
 
-## Day 26-30: Final E2E Projet & Reporting
+## Day 26-30: Final E2E Project & Reporting
 Day 26: Final Project - Planning & Page Object Model (POM). <br>
 Day 27: Final Project - Building the `LoginPage`. <br>
 Day 28: Final Project - Writing the Login Test. <br>
