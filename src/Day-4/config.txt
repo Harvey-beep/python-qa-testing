@@ -1,0 +1,3 @@
+url=https://prod.api.com
+user=admin
+timeout=30

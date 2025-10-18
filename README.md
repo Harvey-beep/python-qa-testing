@@ -19,8 +19,8 @@
 Day 1: Setup, Variables, and Printing (`PASSED`) <br>
 Day 2: Operators and Conditional Logic (`PASSED`) <br>
 Day 3: Collections (Lists and Dictionaries) (`PASSED`) <br>
-Day 4: Loops and File Handling (`ONGOING`) <br>
-Day 5: Hands-On Challenge 1. <br>
+Day 4: Loops and File Handling (`PASSED`) <br>
+Day 5: Hands-On Challenge 1 (`ONGOING`) <br>
 
 ## Day 6-10: QA Basics & Python Functions
 Day 6: Functions and QA Theory. <br>
