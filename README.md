@@ -17,8 +17,8 @@
 
 ## Day 1-5: Python Essentials for QA
 Day 1: Setup, Variables, and Printing (`PASSED`) <br>
-Day 2: Operators and Conditional Logic. (`ONGOING`) <br>
-Day 3: Collections (Lists and Dictionaries). <br>
+Day 2: Operators and Conditional Logic (`PASSED`) <br>
+Day 3: Collections (Lists and Dictionaries) (`ONGOING`) <br>
 Day 4: Loops and File Handling. <br>
 Day 5: Hands-On Challenge 1. <br>
 
