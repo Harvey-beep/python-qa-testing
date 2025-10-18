@@ -16,7 +16,7 @@
 ```
 
 ## Day 1-5: Python Essentials for QA
-Day 1: Setup, Variables, and Printing <span style="color: light-green;"> (PASSED). </span><br>
+Day 1: Setup, Variables, and Printing - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) `#c5f015`
 Day 2: Operators and Conditional Logic. <span style="color: light-blue;"> (ONGOING). </span><br>
 Day 3: Collections (Lists and Dictionaries). <br>
 Day 4: Loops and File Handling. <br>
