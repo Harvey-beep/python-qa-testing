@@ -25,8 +25,8 @@ Day 5: Hands-On Challenge 1 (`PASSED`) <br>
 ## Day 6-10: QA Basics & Python Functions
 Day 6: Functions and QA Theory (`PASSED`) <br>
 Day 7: Test Cases and Function Arguments (`PASSED`) <br>
-Day 8: Error Handling (`try` and `except`) (`ONGOING`) <br>
-Day 9: Modules and Virtual Environments. <br>
+Day 8: Error Handling (`try` and `except`) (`PASSED`) <br>
+Day 9: Modules and Virtual Environments (`ONGOING`) <br>
 Day 10: Hands-On Challenge 2. <br>
 
 ## Day 11-15: Automated Testing (`unittest` & `pytest`)
