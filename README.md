@@ -23,8 +23,8 @@ Day 4: Loops and File Handling (`PASSED`) <br>
 Day 5: Hands-On Challenge 1 (`PASSED`) <br>
 
 ## Day 6-10: QA Basics & Python Functions
-Day 6: Functions and QA Theory (`ONGOING`) <br>
-Day 7: Test Cases and Function Arguments. <br>
+Day 6: Functions and QA Theory (`PASSED`) <br>
+Day 7: Test Cases and Function Arguments (`ONGOING`) <br>
 Day 8: Error Handling (`try` and `except`). <br>
 Day 9: Modules and Virtual Environments. <br>
 Day 10: Hands-On Challenge 2. <br>
