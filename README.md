@@ -27,10 +27,10 @@ Day 6: Functions and QA Theory (`PASSED`) <br>
 Day 7: Test Cases and Function Arguments (`PASSED`) <br>
 Day 8: Error Handling (`try` and `except`) (`PASSED`) <br>
 Day 9: Modules and Virtual Environments (`PASSED`) <br>
-Day 10: Hands-On Challenge (`ONGOING`) <br>
+Day 10: Hands-On Challenge (`PASSED`) <br>
 
 ## Day 11-15: Automated Testing (`unittest` & `pytest`)
-Day 11: Introduction to `unittest`. <br>
+Day 11: Introduction to `unittest`(`ONGOING`) <br>
 Day 12: `unittest` Assertions & Setup/Teardown. <br>
 Day 13: Introduction to `pytest`. <br>
 Day 14: `pytest` Fixtures and Markers. <br>
