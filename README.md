@@ -31,8 +31,8 @@ Day 10: Hands-On Challenge (`PASSED`) <br>
 
 ## Day 11-15: Automated Testing (`unittest` & `pytest`)
 Day 11: Introduction to `unittest`(`PASSED`) <br>
-Day 12: `unittest` Assertions & Setup/Teardown (`ONGOING`) <br>
-Day 13: Introduction to `pytest`. <br>
+Day 12: `unittest` Assertions & Setup/Teardown (`PASSED`) <br>
+Day 13: Introduction to `pytest`(`ONGOING`)  <br>
 Day 14: `pytest` Fixtures and Markers. <br>
 Day 15: Hands-On Challenge 3. <br>
 
