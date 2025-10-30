@@ -33,8 +33,8 @@ Day 10: Hands-On Challenge (`PASSED`) <br>
 Day 11: Introduction to `unittest`(`PASSED`) <br>
 Day 12: `unittest` Assertions & Setup/Teardown (`PASSED`) <br>
 Day 13: Introduction to `pytest`(`PASSED`)  <br>
-Day 14: `pytest` Fixtures and Markers (`ONGOING`) <br>
-Day 15: Hands-On Challenge 3. <br>
+Day 14: `pytest` Fixtures and Markers (`PASSED`) <br>
+Day 15: Hands-On Challenge 3 (`ONGOING`) <br>
 
 ## Day 16-20: Web Automation with Selenium
 Day 16: Intro to Selenium & Webdriver Setup. <br>
