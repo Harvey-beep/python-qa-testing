@@ -34,10 +34,10 @@ Day 11: Introduction to `unittest`(`PASSED`) <br>
 Day 12: `unittest` Assertions & Setup/Teardown (`PASSED`) <br>
 Day 13: Introduction to `pytest`(`PASSED`)  <br>
 Day 14: `pytest` Fixtures and Markers (`PASSED`) <br>
-Day 15: Hands-On Challenge 3 (`ONGOING`) <br>
+Day 15: Hands-On Challenge 3 (`PASSED`) <br>
 
 ## Day 16-20: Web Automation with Selenium
-Day 16: Intro to Selenium & Webdriver Setup. <br>
+Day 16: Intro to Selenium & Webdriver Setup (`ONGOING`) <br>
 Day 17: Locating Elements (Part 1). <br>
 Day 18: Interacting with Elements (Part 2). <br>
 Day 19: Advanced Locators (XPath/CSS) & Waits. <br>
