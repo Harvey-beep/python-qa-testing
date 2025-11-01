@@ -37,8 +37,8 @@ Day 14: `pytest` Fixtures and Markers (`PASSED`) <br>
 Day 15: Hands-On Challenge 3 (`PASSED`) <br>
 
 ## Day 16-20: Web Automation with Selenium
-Day 16: Intro to Selenium & Webdriver Setup (`ONGOING`) <br>
-Day 17: Locating Elements (Part 1). <br>
+Day 16: Intro to Selenium & Webdriver Setup (`PASSED`) <br>
+Day 17: Locating Elements (Part 1) (`ONGOING`) <br>
 Day 18: Interacting with Elements (Part 2). <br>
 Day 19: Advanced Locators (XPath/CSS) & Waits. <br>
 Day 20: Hands-On Challenge 4. <br>
