@@ -41,10 +41,10 @@ Day 16: Intro to Selenium & Webdriver Setup (`PASSED`) <br>
 Day 17: Locating Elements (Part 1) (`PASSED`) <br>
 Day 18: Interacting with Elements (Part 2) (`PASSED`) <br>
 Day 19: Advanced Locators (XPath/CSS) & Waits (`PASSED`) <br>
-Day 20: Hands-On Challenge 4 (`ONGOING`) <br>
+Day 20: Hands-On Challenge 4 (`PASSED`) <br>
 
 ## Day 21-25: API Testing with `requests`
-Day 21: Intro to APIs & `requests` (GET). <br>
+Day 21: Intro to APIs & `requests` (GET) (`ONGOING`) <br>
 Day 22: `requests` (POST, PUT, DELETE). <br>
 Day 23: `pytest` + `requests`. <br>
 Day 24: JSON Schema Validation. <br>
